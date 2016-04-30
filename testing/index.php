@@ -38,6 +38,9 @@
                 case 5:
                     echo "Case ".$_param;
                     break;
+                case 6:
+                    echo "Case ".$_param;
+                    break;
                 default :
                     echo "Default ".$_param;                
             }
